@@ -1,0 +1,14 @@
+{
+    "test": {
+        "PORT": 3000,
+        // "MONGODB_URI":"mongodb://localhost:27017/SynergyTest",
+        "MONGODV_URI":"mongodb://root:123456>@ds259305.mlab.com:59305/synergy_proposal_submit",
+        "JWT_SECRET": "asdkjlaksjdlaks$%^#@jd3902049(#3265"
+    },
+    "development":{
+        "PORT": 3000,
+       // "MONGODB_URI":"mongodb://localhost:27017/Synergy",
+       "MONGODV_URI":"mongodb://root:123456>@ds259305.mlab.com:59305/synergy_proposal_submit",
+        "JWT_SECRET": "*#0askdkb,pqoier'a.$%^#@jd3902049(#3265"
+    }
+}
